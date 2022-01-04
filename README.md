@@ -1,2 +1,0 @@
-# CCNA2-V6
-CCNA2 V6
